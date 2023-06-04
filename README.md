@@ -1,0 +1,3 @@
+# Plantary API
+
+This is a side project I completed in order to better understand how to set up a RESTful API with Flask. The API links to a database that can store various users and planets. The API utilises javascript web tokens in order to authenticate users before allowing changes to be made to the database. The API has several endpoints that correspond to standard CRUD commands that allow users to create, read, update and delete various planets that can be stored in the database. Each planet has several characteristics and these characteristics can be used for queries by sending requests to the database through the API. 
